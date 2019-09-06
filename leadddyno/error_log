@@ -1,0 +1,12 @@
+[19-Jul-2019 04:57:18 America/Denver] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/worldsuc/public_html/arfeenkhan/leadddyno/index.php on line 16
+[27-Aug-2019 02:17:44 America/Denver] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home/worldsuc/public_html/arfeenkhan/leadddyno/getpu.php on line 11
+[27-Aug-2019 02:49:02 America/Denver] PHP Warning:  Illegal string offset 'id' in /home/worldsuc/public_html/arfeenkhan/leadddyno/test.php on line 20
+[28-Aug-2019 00:47:20 America/Denver] PHP Fatal error:  Call to undefined function password_hash() in /home/worldsuc/public_html/arfeenkhan/leadddyno/hashtest.php on line 3
+[28-Aug-2019 00:48:32 America/Denver] PHP Fatal error:  Call to undefined function password_hash() in /home/worldsuc/public_html/arfeenkhan/leadddyno/hashtest.php on line 3
+[28-Aug-2019 00:48:37 America/Denver] PHP Fatal error:  Call to undefined function password_hash() in /home/worldsuc/public_html/arfeenkhan/leadddyno/hashtest.php on line 3
+[28-Aug-2019 00:49:12 America/Denver] PHP Fatal error:  Call to undefined function password_hash() in /home/worldsuc/public_html/arfeenkhan/leadddyno/hashtest.php on line 3
+[29-Aug-2019 02:27:02 America/Denver] PHP Fatal error:  Call to undefined function password_hash() in /home/worldsuc/public_html/arfeenkhan/leadddyno/hashtest.php on line 3
+[29-Aug-2019 02:27:50 America/Denver] PHP Fatal error:  Call to undefined function password_hash() in /home/worldsuc/public_html/arfeenkhan/leadddyno/hashtest.php on line 3
+[29-Aug-2019 02:32:42 America/Denver] PHP Fatal error:  Class 'PasswordHash' not found in /home/worldsuc/public_html/arfeenkhan/leadddyno/hashtest.php on line 5
+[29-Aug-2019 02:33:15 America/Denver] PHP Fatal error:  Class 'PasswordHash' not found in /home/worldsuc/public_html/arfeenkhan/leadddyno/hashtest.php on line 5
+[30-Aug-2019 00:11:23 America/Denver] PHP Fatal error:  Call to undefined function url_setopt() in /home/worldsuc/public_html/arfeenkhan/leadddyno/testapi.php on line 16
